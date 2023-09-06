@@ -1,0 +1,23 @@
+{
+  "name": "playwright_test",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "npx playwright test",
+    "test ui": "npx playwright test --ui"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annherman/playwright_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annherman/playwright_test/issues"
+  },
+  "homepage": "https://github.com/annherman/playwright_test#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.37.1"
+  }
+}
